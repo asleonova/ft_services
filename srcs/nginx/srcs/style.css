@@ -1,7 +1,7 @@
 body {
     margin: 10%;
     height: 100%;
-    background: rgb(48, 50, 50);
+    background: rgb(93, 138, 165);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -10,12 +10,13 @@ body {
 }
 
 .button {
+    z-index: 2;
     cursor: pointer;
     margin: .5rem;
     padding: .5rem;
     height: 2rem;
     width: 10rem;
-    background: rgb(80, 80, 124);
+    background: rgba(80, 80, 124, .3);
     border: 3px solid rgb(48, 50, 50);
     border-radius: 1rem;
     border: 2px solid  rgb(80, 80, 124);
@@ -25,7 +26,7 @@ body {
 }
 
 .button:hover {
-    background: rgb(125, 148, 148);
+    background: rgba(125, 148, 148, .3);
 }
 
 .button:active {
@@ -39,4 +40,19 @@ a {
 
 li {
     list-style-type: none;
+}
+
+.girl {
+    display: flex;
+    flex-direction: row;
+    z-index: 1;
+    width: 800px;
+    height: 800px;
+    background-size: 100%;
+    background-image: url(1.PNG);
+}
+
+.all_button {
+    margin-top: 28rem;
+    margin-left: 18rem;
 }

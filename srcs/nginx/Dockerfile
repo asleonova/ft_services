@@ -22,6 +22,8 @@ COPY	./srcs/index.html /www/
 
 COPY	./srcs/style.css /www/
 
+COPY	./srcs/1.PNG /www/
+
 COPY 	./srcs/nginx.conf /etc/nginx/conf.d/default.conf
 
 COPY 	./srcs/supervisord.conf /etc/supervisord.conf
