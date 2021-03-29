@@ -4,7 +4,7 @@ This project is clusturing a docker-compose application and deploying it with Ku
 
 ## Pre-installation:
 
-Make sure you have Docker ToolBox installed on your computer, that you have Filezilla app for checking the work of FTPS server and minikube.
+Make sure you have **Docker ToolBox** installed on your computer, that you have **Filezilla app** for checking the work of FTPS server and **minikube**.
 
 Quick installation of **minikube**:
 
