@@ -4,6 +4,7 @@ This project is clusturing a docker-compose application and deploying it with Ku
 
 ### Pre-installation:
 
+
 Make sure you have **Docker ToolBox** installed on your computer, that you have **Filezilla app** for checking the work of FTPS server and **minikube**.
 
 Quick installation of **minikube**:
@@ -21,7 +22,13 @@ After cloning the repo, simply execute the setup file:
 ./setup.sh
 ```
 
-Run it again once it's installed the requirements.
+The minicube dashboard opens automatically where you see your pods running. Even after killing the services, it relaunches correctly, the info from databases is not lost. You can check that by running pkill command, e.g.:
+```
+kubectl exec deploy/grafana -- pkill grafana
+```
 
+Here's how everything in the cluster is interconnected:
+<p align="center">
+  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png" width="100%" />
+</p>
 
-http://coding-girl.ru/wp-content/uploads/2021/03/services.png
