@@ -12,7 +12,7 @@ Quick installation of **minikube**:
 brew install minikube
 ```
 
-**__!!! Make sure you also have enough space available on your hardware!!!__**
+*__!!! Make sure you also have enough space available on your hardware!!!__*
 
 ## Usage:
 
