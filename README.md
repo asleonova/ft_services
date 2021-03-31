@@ -45,7 +45,7 @@ Minikube dashboard:
 <table style="padding:10px">
   <tr>
     <td> 
-         <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png"  alt="1" width = 279px height = 496px ></td>
+         <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png"  alt="1" width = "100%" ></td>
       
  <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/main_page.png" align="right" alt="2" width = 279px height = 496px></td>
    <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png" alt="3" width = 288px height = 512px></td>
