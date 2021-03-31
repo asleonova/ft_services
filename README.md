@@ -46,3 +46,19 @@ Wp page:
 <p align="center">
   <img src="http://coding-girl.ru/wp-content/uploads/2021/03/wp.png width="100%" />
 </p>
+                                                                                
+  <table>
+  <tr>
+    <td> <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png"  alt="1" width = 360px height = 640px ></td>
+
+    <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png" alt="2" width = 360px height = 640px></td>
+   </tr> 
+   <tr>
+      <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png" alt="3" width = 360px height = 640px></td>
+
+      <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png" align="right" alt="4" width = 360px height = 640px>
+  </td>
+  </tr>
+</table>                                                                              
+                                                                                
+                                                                                
