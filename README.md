@@ -39,12 +39,11 @@ The main page:
 
 Minikube dashboard:
 <p align="center">
-  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png width="100%" />
+  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png" width="100%" />
 </p>
 
-| Italic             |  Block letters |
-:-------------------------:|:-------------------------:
-![]("http://coding-girl.ru/wp-content/uploads/2021/03/services.png")  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Identification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_cmc.png)
-![](outputs/output_Biotouch/18-15_02-02-2018/Verification/ITALIC/ITALIC_movementPoints_notbalanced_roc.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_notbalanced_roc.png)
-![](outputs/output_Biotouch/18-15_02-02-2018/Verification/ITALIC/ITALIC_movementPoints_notbalanced_frrVSfpr.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_notbalanced_frrVSfpr.png)                                                                       
+Name            Surface area       Photo
+--------------  -----------------  -------------------
+Earth           510,072,000 km^2^  ![](http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png)
+Mars            144,798,500 km^2^  ![](http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png)                                                           
                                                                                 
