@@ -30,5 +30,19 @@ kubectl exec deploy/grafana -- pkill grafana
 Here's how everything in the cluster is interconnected:
 <p align="center">
   <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png" width="100%" />
+  
+  
+The main page:
+<p align="center">
+  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/main_page.png" width="100%" />
 </p>
 
+Minikube dashboard:
+<p align="center">
+  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png width="100%" />
+</p>
+
+Wp page:
+<p align="center">
+  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/wp.png width="100%" />
+</p>
