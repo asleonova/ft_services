@@ -42,8 +42,16 @@ Minikube dashboard:
   <img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png" width="100%" />
 </p>
 
-Name            Surface area       Photo
---------------  -----------------  -------------------
-Earth           510,072,000 km^2^  ![](http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png)
-Mars            144,798,500 km^2^  ![](http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png)                                                           
+<table style="padding:10px">
+  <tr>
+    <td> 
+         <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png"  alt="1" width = 279px height = 496px ></td>
+      
+ <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/main_page.png" align="right" alt="2" width = 279px height = 496px></td>
+   <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png" alt="3" width = 288px height = 512px></td>
+    
+   <!--<td><img src="./Scshot/trip_end.png" align="right" alt="4" width =  279px height = 496px></td>-->
+  </tr>
+</table>
+                                                      
                                                                                 
