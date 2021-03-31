@@ -29,18 +29,17 @@ kubectl exec deploy/grafana -- pkill grafana
 
 Here's how everything in the cluster is interconnected:
 <p align="center">
-  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png" width="100%" />
+  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png" width="50%" />
   
 
 <table style="padding:10px">
   <tr>
     <td> 
-         <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png"  alt="1" width = 288px height = 288px ></td>
+         <img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png"  alt="1" width = 288px height = 288px ></td>
       
  <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/main_page.png" align="right" alt="2" width = 288px height = 288px></td>
    <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/wp.png" alt="3" width = 288px height = 288px></td>
     
-   <!--<td><img src="./Scshot/trip_end.png" align="right" alt="4" width =  279px height = 496px></td>-->
   </tr>
 </table>
                                                       
