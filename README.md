@@ -31,16 +31,6 @@ Here's how everything in the cluster is interconnected:
 <p align="center">
   <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png" width="100%" />
   
-  
-The main page:
-<p align="center">
-  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/main_page.png" width="100%" />
-</p>
-
-Minikube dashboard:
-<p align="center">
-  <img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png" width="100%" />
-</p>
 
 <table style="padding:10px">
   <tr>
@@ -48,7 +38,7 @@ Minikube dashboard:
          <img src="http://coding-girl.ru/wp-content/uploads/2021/03/services.png"  alt="1" width = 288px height = 288px ></td>
       
  <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/main_page.png" align="right" alt="2" width = 288px height = 288px></td>
-   <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/dashboard.png" alt="3" width = 288px height = 288px></td>
+   <td><img src="http://coding-girl.ru/wp-content/uploads/2021/03/wp.png" alt="3" width = 288px height = 288px></td>
     
    <!--<td><img src="./Scshot/trip_end.png" align="right" alt="4" width =  279px height = 496px></td>-->
   </tr>
